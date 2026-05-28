@@ -1,0 +1,210 @@
+# Guia Simplificado de Leitura em Hebraico Bíblico
+
+## Índice para GitHub Wiki
+
+Objetivo: sair do zero até uma leitura assistida do Texto Massorético, sem buscar fluência em hebraico moderno.
+
+➡️ Comece por: [1 - Reconhecimento do Alfabeto Hebraico](<1 - Reconhecimento do Alfabeto Hebraico.md>)
+
+---
+
+# Capítulos
+
+## [1 - Reconhecimento do Alfabeto Hebraico](<1 - Reconhecimento do Alfabeto Hebraico.md>)
+
+- [1.1 - Como funciona a leitura da direita para a esquerda](<1.1 - Como funciona a leitura da direita para a esquerda.md>)
+- [1.2 - As 22 letras hebraicas](<1.2 - As 22 letras hebraicas.md>)
+- [1.3 - Nome e som básico das letras](<1.3 - Nome e som básico das letras.md>)
+- [1.4 - Letras finais](<1.4 - Letras finais.md>)
+- [1.5 - Letras parecidas](<1.5 - Letras parecidas.md>)
+- [1.6 - Letras guturais](<1.6 - Letras guturais.md>)
+- [1.7 - Letras begadkefat](<1.7 - Letras begadkefat.md>)
+- [1.8 - Exercícios de reconhecimento visual](<1.8 - Exercícios de reconhecimento visual.md>)
+
+## [2 - Sons Básicos do Hebraico](<2 - Sons Básicos do Hebraico.md>)
+
+- [2.1 - Consoantes](<2.1 - Consoantes.md>)
+- [2.2 - Vogais](<2.2 - Vogais.md>)
+- [2.3 - Sílabas simples](<2.3 - Sílabas simples.md>)
+- [2.4 - Sílabas abertas e fechadas](<2.4 - Sílabas abertas e fechadas.md>)
+- [2.5 - Acento básico das palavras](<2.5 - Acento básico das palavras.md>)
+- [2.6 - Leitura em voz alta](<2.6 - Leitura em voz alta.md>)
+
+## [3 - Sistema Vocálico](<3 - Sistema Vocálico.md>)
+
+- [3.1 - O que são os sinais vocálicos](<3.1 - O que são os sinais vocálicos.md>)
+- [3.2 - Patah](<3.2 - Patah.md>)
+- [3.3 - Qamats](<3.3 - Qamats.md>)
+- [3.4 - Segol](<3.4 - Segol.md>)
+- [3.5 - Tsere](<3.5 - Tsere.md>)
+- [3.6 - Hireq](<3.6 - Hireq.md>)
+- [3.7 - Holam](<3.7 - Holam.md>)
+- [3.8 - Qibbuts](<3.8 - Qibbuts.md>)
+- [3.9 - Shureq](<3.9 - Shureq.md>)
+- [3.10 - Sheva](<3.10 - Sheva.md>)
+- [3.11 - Vogais reduzidas](<3.11 - Vogais reduzidas.md>)
+- [3.12 - Mater lectionis](<3.12 - Mater lectionis.md>)
+
+## [4 - Primeiras Palavras Bíblicas](<4 - Primeiras Palavras Bíblicas.md>)
+
+- [4.1 - אֱלֹהִים - Deus](<4.1 - אֱלֹהִים - Deus.md>)
+- [4.2 - יְהוָה - SENHOR](<4.2 - יְהוָה - SENHOR.md>)
+- [4.3 - אָדָם - Homem e humanidade](<4.3 - אָדָם - Homem e humanidade.md>)
+- [4.4 - אֶרֶץ - Terra](<4.4 - אֶרֶץ - Terra.md>)
+- [4.5 - שָׁמַיִם - Céus](<4.5 - שָׁמַיִם - Céus.md>)
+- [4.6 - יוֹם - Dia](<4.6 - יוֹם - Dia.md>)
+- [4.7 - אוֹר - Luz](<4.7 - אוֹר - Luz.md>)
+- [4.8 - טוֹב - Bom](<4.8 - טוֹב - Bom.md>)
+- [4.9 - מַיִם - Águas](<4.9 - מַיִם - Águas.md>)
+- [4.10 - רוּחַ - Espírito, vento e sopro](<4.10 - רוּחַ - Espírito, vento e sopro.md>)
+
+## [5 - Leitura Guiada Inicial](<5 - Leitura Guiada Inicial.md>)
+
+- [5.1 - Gênesis 1.1](<5.1 - Gênesis 1.1.md>)
+- [5.2 - Gênesis 1.3](<5.2 - Gênesis 1.3.md>)
+- [5.3 - Deuteronômio 6.4](<5.3 - Deuteronômio 6.4.md>)
+- [5.4 - Salmo 23.1](<5.4 - Salmo 23.1.md>)
+
+## [6 - Vocabulário Bíblico Essencial](<6 - Vocabulário Bíblico Essencial.md>)
+
+- [6.1 - Como memorizar vocabulário sem escrever](<6.1 - Como memorizar vocabulário sem escrever.md>)
+- [6.2 - As 25 palavras mais importantes](<6.2 - As 25 palavras mais importantes.md>)
+- [6.3 - As 50 palavras mais frequentes](<6.3 - As 50 palavras mais frequentes.md>)
+- [6.4 - Nomes divinos](<6.4 - Nomes divinos.md>)
+- [6.5 - Palavras ligadas à criação](<6.5 - Palavras ligadas à criação.md>)
+- [6.6 - Palavras ligadas à aliança](<6.6 - Palavras ligadas à aliança.md>)
+- [6.7 - Palavras ligadas à oração](<6.7 - Palavras ligadas à oração.md>)
+- [6.8 - Palavras ligadas à moral e sabedoria](<6.8 - Palavras ligadas à moral e sabedoria.md>)
+
+## [7 - Substantivos](<7 - Substantivos.md>)
+
+- [7.1 - Como reconhecer substantivos](<7.1 - Como reconhecer substantivos.md>)
+- [7.2 - Masculino e feminino](<7.2 - Masculino e feminino.md>)
+- [7.3 - Singular e plural](<7.3 - Singular e plural.md>)
+- [7.4 - Dual](<7.4 - Dual.md>)
+- [7.5 - Estado absoluto](<7.5 - Estado absoluto.md>)
+- [7.6 - Estado construto](<7.6 - Estado construto.md>)
+- [7.7 - Exemplos teológicos importantes](<7.7 - Exemplos teológicos importantes.md>)
+
+## [8 - Artigo e Adjetivos](<8 - Artigo e Adjetivos.md>)
+
+- [8.1 - O artigo definido הַ](<8.1 - O artigo definido הַ.md>)
+- [8.2 - Como reconhecer uma palavra definida](<8.2 - Como reconhecer uma palavra definida.md>)
+- [8.3 - Adjetivos básicos](<8.3 - Adjetivos básicos.md>)
+- [8.4 - Concordância simples](<8.4 - Concordância simples.md>)
+- [8.5 - Adjetivo antes ou depois do substantivo](<8.5 - Adjetivo antes ou depois do substantivo.md>)
+- [8.6 - Exemplos de adjetivos teológicos](<8.6 - Exemplos de adjetivos teológicos.md>)
+
+## [9 - Pronomes e Partículas Frequentes](<9 - Pronomes e Partículas Frequentes.md>)
+
+- [9.1 - Pronomes pessoais básicos](<9.1 - Pronomes pessoais básicos.md>)
+- [9.2 - Este, esta, aquele](<9.2 - Este, esta, aquele.md>)
+- [9.3 - וְ - E](<9.3 - וְ - E.md>)
+- [9.4 - בְּ - Em e com](<9.4 - בְּ - Em e com.md>)
+- [9.5 - לְ - Para](<9.5 - לְ - Para.md>)
+- [9.6 - כְּ - Como](<9.6 - כְּ - Como.md>)
+- [9.7 - מִן - De](<9.7 - מִן - De.md>)
+- [9.8 - אֶל - Para e em direção a](<9.8 - אֶל - Para e em direção a.md>)
+- [9.9 - עַל - Sobre](<9.9 - עַל - Sobre.md>)
+- [9.10 - לֹא - Não](<9.10 - לֹא - Não.md>)
+- [9.11 - כִּי - Porque, pois e que](<9.11 - כִּי - Porque, pois e que.md>)
+- [9.12 - אֵת - Marcador de objeto direto](<9.12 - אֵת - Marcador de objeto direto.md>)
+
+## [10 - Leituras Guiadas](<10 - Leituras Guiadas.md>)
+
+- [10.1 - Deuteronômio 6.4 - Shemá Israel](<10.1 - Deuteronômio 6.4 - Shemá Israel.md>)
+- [10.2 - Salmo 1.1](<10.2 - Salmo 1.1.md>)
+- [10.3 - Salmo 23.1](<10.3 - Salmo 23.1.md>)
+- [10.4 - Gênesis 1.1-3](<10.4 - Gênesis 1.1-3.md>)
+
+## [11 - Introdução aos Verbos](<11 - Introdução aos Verbos.md>)
+
+- [11.1 - O que é uma raiz verbal](<11.1 - O que é uma raiz verbal.md>)
+- [11.2 - Como reconhecer um verbo](<11.2 - Como reconhecer um verbo.md>)
+- [11.3 - Verbos fortes e fracos - visão geral](<11.3 - Verbos fortes e fracos - visão geral.md>)
+- [11.4 - Perfeito](<11.4 - Perfeito.md>)
+- [11.5 - Imperfeito](<11.5 - Imperfeito.md>)
+- [11.6 - Imperativo](<11.6 - Imperativo.md>)
+- [11.7 - Particípio](<11.7 - Particípio.md>)
+
+## [12 - Qal Básico](<12 - Qal Básico.md>)
+
+- [12.1 - O que é Qal](<12.1 - O que é Qal.md>)
+- [12.2 - Qal como forma verbal simples](<12.2 - Qal como forma verbal simples.md>)
+- [12.3 - Como reconhecer Qal perfeito](<12.3 - Como reconhecer Qal perfeito.md>)
+- [12.4 - Como reconhecer Qal imperfeito](<12.4 - Como reconhecer Qal imperfeito.md>)
+- [12.5 - Traduções comuns](<12.5 - Traduções comuns.md>)
+- [12.6 - Verbos frequentes no Qal](<12.6 - Verbos frequentes no Qal.md>)
+
+## [13 - Verbos Bíblicos Essenciais](<13 - Verbos Bíblicos Essenciais.md>)
+
+- [13.1 - בָּרָא - Criar](<13.1 - בָּרָא - Criar.md>)
+- [13.2 - אָמַר - Dizer](<13.2 - אָמַר - Dizer.md>)
+- [13.3 - רָאָה - Ver](<13.3 - רָאָה - Ver.md>)
+- [13.4 - שָׁמַע - Ouvir](<13.4 - שָׁמַע - Ouvir.md>)
+- [13.5 - הָיָה - Ser, estar e acontecer](<13.5 - הָיָה - Ser, estar e acontecer.md>)
+- [13.6 - נָתַן - Dar](<13.6 - נָתַן - Dar.md>)
+- [13.7 - עָשָׂה - Fazer](<13.7 - עָשָׂה - Fazer.md>)
+- [13.8 - הָלַךְ - Andar e ir](<13.8 - הָלַךְ - Andar e ir.md>)
+- [13.9 - יָדַע - Conhecer](<13.9 - יָדַע - Conhecer.md>)
+- [13.10 - שָׁמַר - Guardar](<13.10 - שָׁמַר - Guardar.md>)
+
+## [14 - Waw e Narrativa Bíblica](<14 - Waw e Narrativa Bíblica.md>)
+
+- [14.1 - וְ como E](<14.1 - וְ como E.md>)
+- [14.2 - Waw em narrativas](<14.2 - Waw em narrativas.md>)
+- [14.3 - Introdução ao waw consecutivo](<14.3 - Introdução ao waw consecutivo.md>)
+- [14.4 - Como o waw ajuda a acompanhar uma sequência narrativa](<14.4 - Como o waw ajuda a acompanhar uma sequência narrativa.md>)
+- [14.5 - Exemplos em Gênesis 1](<14.5 - Exemplos em Gênesis 1.md>)
+
+## [15 - Leituras Guiadas Finais](<15 - Leituras Guiadas Finais.md>)
+
+- [15.1 - Gênesis 1.1-5](<15.1 - Gênesis 1.1-5.md>)
+- [15.2 - Salmo 1.1-2](<15.2 - Salmo 1.1-2.md>)
+- [15.3 - Salmo 23.1-3](<15.3 - Salmo 23.1-3.md>)
+- [15.4 - Deuteronômio 6.4-5](<15.4 - Deuteronômio 6.4-5.md>)
+- [15.5 - Isaías 6.3](<15.5 - Isaías 6.3.md>)
+
+## [16 - Leitura Comentada de um Versículo](<16 - Leitura Comentada de um Versículo.md>)
+
+- [16.1 - Escolher um versículo curto](<16.1 - Escolher um versículo curto.md>)
+- [16.2 - Ler o texto hebraico em voz alta](<16.2 - Ler o texto hebraico em voz alta.md>)
+- [16.3 - Identificar palavras conhecidas](<16.3 - Identificar palavras conhecidas.md>)
+- [16.4 - Identificar partículas](<16.4 - Identificar partículas.md>)
+- [16.5 - Identificar substantivos](<16.5 - Identificar substantivos.md>)
+- [16.6 - Identificar verbo principal](<16.6 - Identificar verbo principal.md>)
+- [16.7 - Fazer tradução literal](<16.7 - Fazer tradução literal.md>)
+- [16.8 - Comparar com uma tradução católica](<16.8 - Comparar com uma tradução católica.md>)
+- [16.9 - Escrever uma observação teológica simples](<16.9 - Escrever uma observação teológica simples.md>)
+
+## [17 - Versículos Sugeridos](<17 - Versículos Sugeridos.md>)
+
+- [17.1 - Gênesis 1.1](<17.1 - Gênesis 1.1.md>)
+- [17.2 - Gênesis 1.3](<17.2 - Gênesis 1.3.md>)
+- [17.3 - Deuteronômio 6.4](<17.3 - Deuteronômio 6.4.md>)
+- [17.4 - Salmo 23.1](<17.4 - Salmo 23.1.md>)
+- [17.5 - Salmo 51.12](<17.5 - Salmo 51.12.md>)
+- [17.6 - Isaías 6.3](<17.6 - Isaías 6.3.md>)
+
+---
+
+# Apêndices
+
+- [Apêndice A - Alfabeto Hebraico para Leitura](<Apêndice A - Alfabeto Hebraico para Leitura.md>)
+- [Apêndice B - Vogais Hebraicas](<Apêndice B - Vogais Hebraicas.md>)
+- [Apêndice C - Letras Parecidas](<Apêndice C - Letras Parecidas.md>)
+- [Apêndice D - Letras Finais](<Apêndice D - Letras Finais.md>)
+- [Apêndice E - Partículas Frequentes](<Apêndice E - Partículas Frequentes.md>)
+- [Apêndice F - 50 Palavras Mais Frequentes](<Apêndice F - 50 Palavras Mais Frequentes.md>)
+- [Apêndice G - 25 Termos Teológicos Essenciais](<Apêndice G - 25 Termos Teológicos Essenciais.md>)
+- [Apêndice H - Verbos Bíblicos Frequentes](<Apêndice H - Verbos Bíblicos Frequentes.md>)
+- [Apêndice I - Modelo Simples de Leitura de Versículo](<Apêndice I - Modelo Simples de Leitura de Versículo.md>)
+- [Apêndice J - Checklist Semanal](<Apêndice J - Checklist Semanal.md>)
+- [Apêndice K - Dagesh no Texto Massorético](<Apêndice K - Dagesh no Texto Massorético.md>)
+
+---
+
+## Arquivos úteis
+
+- [`_Sidebar.md`](<_Sidebar.md>) para usar no GitHub Wiki.
+- `Home.md` para página inicial alternativa da Wiki.
